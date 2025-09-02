@@ -3,7 +3,7 @@ body
     background-color: black;
 }
 
-#h1
+h1
 {
     text-align: center;
     margin: 5px;
@@ -12,6 +12,27 @@ body
 }
 
 #wadyZalety
+{
+    color: white;
+    text-align: center;
+    border: 1px solid yellow;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 6px;
+}
+
+#wady
+{
+    color: white;
+    text-align: center;
+    border: 1px solid yellow;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 6px;
+}
+
+
+#zalety
 {
     color: white;
     text-align: center;
